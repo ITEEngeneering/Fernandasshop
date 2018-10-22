@@ -46,7 +46,7 @@
       right: 5px;
       bottom: 20px;
       z-index: 10;
-      padding-top: 20px; 
+      padding-top: 20px;
       color: #ffffff;
       text-align: center;
       font-weight: 700;
@@ -55,7 +55,7 @@
     }
   </style>
 
- 
+
 <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="index.php"><img src="imagens/icon.ico" width="50px" height="50px"></a>
@@ -72,7 +72,7 @@
               <a class="nav-link" href="#">Sobre nós</a>
             </li>
             <li class="nav-item dropdown">
-              
+
 <div class="dropdown">
   <a class="btn  dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Produtos
@@ -83,7 +83,7 @@
     <a class="dropdown-item" href="#">Outra ação</a>
     <a class="dropdown-item" href="#">Alguma coisa aqui</a>
   </div>
-   
+
 </div>
 
 
@@ -98,33 +98,34 @@
 
 
 <div class="row mr-5">
-              
+
               <div class="col-lg-15">
                 <div class="input-group">
                   <input type="text" class="form-control" placeholder="Pesquisar">
                     <span class="input-group-btn">
                       <button class="btn btn-outline-success my-6 my-sm-6 mr-5" type="button">Go! <Span class="glyphicon glyphicon-user"></Span></button>
                     </span>
-                  
+
                 </div>
-                
+
               </div>
 
                <form class="form-inline mt-2 mt-md-0">
-            
-            
-            
+
+
+
 
 
             <a class="btn btn-outline-success my-6 my-sm-6 mr-1" href="" role="button"><Span class="glyphicon glyphicon-user"></Span>Entrar</a>
             <a class="btn btn-outline-success my-6 my-sm-6" href="" role="button">Cadastrar-se</a>
+        
           </form>
-              
+
 
             </div>
 
 
-          
+
         </div>
       </nav>
     </header>
@@ -171,7 +172,7 @@
 <!--Fim indicadores de avançar e voltar nos slides -->
 
 
- <!--Bordas da categória-->   
+ <!--Bordas da categória-->
 <div class="container marketing">
 
 
@@ -179,7 +180,7 @@
 <p><h1 class=" text-center text-body font-weight-bold underline" style="margin: 40px; text-decoration: underline;" >Categorias de Produtos</h1></p>
  <div class="row">
 
-   
+
 
           <div class="col-lg-3 col-lg-offset-3 zoom">
             <img class=" img-responsive" src="imagens/unv.jpg" alt="Generic placeholder image" width="240" height="240">
@@ -189,7 +190,7 @@
 
           <div class="col-lg-3 col-lg-offset-3 zoom">
             <img class="img-responsive" src="imagens/download.jpg" width="240" height="240">
-         
+
             <p><a class="btn btn-primary" href="#" role="button" style="margin: 20px;">Explorar</a></p>
           </div><!-- /.col-lg-4 -->
 
@@ -217,22 +218,22 @@
             <small class="d-block mb-3 text-muted">Desenvolvido por IT & Electronic Engineering, LDA &copy; 2017-2018</small>
           </div>
           <div class="col-6 col-md">
-            
+
           </div>
           <div class="col-6 col-md">
             <h5>Contacte-nos</h5>
-            
+
             </ul>
           </div>
           <div class="col-6 col-md">
             <h5>Quem somos</h5>
-            
+
           </div>
 
 
           <div class="col-6 col-md">
             <h5>Duvidas Frequentes</h5>
-            
+
           </div>
         </div>
       </footer>
