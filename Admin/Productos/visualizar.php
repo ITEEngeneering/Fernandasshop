@@ -13,7 +13,7 @@
   <title>Fernanda's Shop</title>
 
   <!-- Bootstrap CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="../Admin/css/bootstrap.min.css" rel="stylesheet">
   <!-- bootstrap theme -->
   <link href="css/bootstrap-theme.css" rel="stylesheet">
   <!--external css-->
@@ -234,9 +234,9 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
             <ul class="sub">
-              <li><a class="" href="Productos/criar.php">Criar</a></li>
-              <li><a class="" href="Productos/visualizar.php">Visualizar</a></li>
-              <li><a class="" href="Productos mais vendidos.php"> Mais vendidos</a></li>
+              <li><a class="" href="form_component.html">Criar</a></li>
+              <li><a class="" href="form_validation.html">Visualizar</a></li>
+              <li><a class="" href="form_validation.html"> Mais vendidos</a></li>
             </ul>
           </li>
           <li class="sub-menu">
@@ -262,7 +262,7 @@
     <section id="main-content">
       <section class="wrapper">
         <!--overview start-->
-
+   <p>Criar Producto</p>
 
       </section>
       <div class="text-right">
